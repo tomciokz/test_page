@@ -3,9 +3,9 @@
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-`
-*[zadanie_1](https://drive.google.com/file/d/1vnmLyOWUS-U73zAq0gl4apjIIob4vVIe/view?usp=sharing)
-*[zadanie_2](https://drive.google.com/file/d/1vnmLyOWUS-U73zAq0gl4apjIIob4vVIe/view?usp=sharing)
+```
+* [zadanie_1](https://drive.google.com/file/d/1vnmLyOWUS-U73zAq0gl4apjIIob4vVIe/view?usp=sharing)
+* [zadanie_2](https://drive.google.com/file/d/1vnmLyOWUS-U73zAq0gl4apjIIob4vVIe/view?usp=sharing)
 coooooooooooooś
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
